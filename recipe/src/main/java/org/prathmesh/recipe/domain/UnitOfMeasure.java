@@ -22,12 +22,12 @@ public class UnitOfMeasure {
 		this.id = id;
 	}
 
-	public String getUom() {
+	public String getDescription() {
 		return description;
 	}
 
-	public void setUom(String uom) {
-		this.description = uom;
+	public void setDescription(String description) {
+		this.description = description;
 	}
 	
 	
